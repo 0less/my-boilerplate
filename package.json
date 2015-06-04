@@ -1,0 +1,14 @@
+{
+  "name": "ToDo",
+  "version": "1.0.0",
+  "devDependencies": {
+    "connect-livereload": "^0.5.3",
+    "grunt": "^0.4.5",
+    "grunt-contrib-connect": "^0.10.1",
+    "grunt-contrib-less": "^1.0.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-open": "^0.2.3",
+    "grunt-wiredep": "^2.0.0",
+    "jit-grunt": "^0.9.1"
+  }
+}
