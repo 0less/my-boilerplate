@@ -73,7 +73,7 @@ module.exports = function (grunt) {
         }
     });
 
-    grunt.registerTask('server', function (target) {
+    grunt.registerTask('default', function (target) {
 
         grunt.task.run([
             'less:server',
